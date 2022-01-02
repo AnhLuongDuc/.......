@@ -1,10 +1,10 @@
 const CONFIG = {
     titleWeb: "Tiêu đề web",
     introTitle: 'Hi chị Izana',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Thích cậu từ Xuân Hạ
+    Thích tới tận Thu Đông
+    Có một câu hỏi nhỏ
+    Cậu có thích tớ không?`,
     btnIntro: '^^HiHi^^',
     title: 'Chị có yêu em hong 🥰',
     desc: 'Chị yêu em đúng hem ',

@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
+    introTitle: 'Hi chị Izana',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -15,5 +15,5 @@ const CONFIG = {
     reply: 'Yêu thì yêu thui',
     mess: 'Em biết mà 🥰. Yêu chị nhiều nhiều 😘😘',
     btnAccept: 'Yêu emmmm <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/messages/t/100021765190730' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
